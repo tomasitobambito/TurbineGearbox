@@ -1,2 +1,5 @@
 __pycache__
 venv
+
+/data/train_damaged.csv
+/data/train_healthy.csv
