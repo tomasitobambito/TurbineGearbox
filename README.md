@@ -1,7 +1,7 @@
 # Turbine Gearbox Data Analysis
 
 ## Installation
-1. Use the command termindal to navigate to the desired folder, then clone the repository with 
+1. Use the command terminal to navigate to the desired folder, then clone the repository with 
 ```
 git clone https://github.com/tomasitobambito/TurbineGearbox
 ```
