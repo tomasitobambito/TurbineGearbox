@@ -20,3 +20,8 @@ py -m venv ./venv
 5. Install requirements by running
 ```
 pip install -r ./requirements.txt
+```
+
+## Data Import
+1. Copy the data files in the folder 'data'
+2. Delete deleteme.txt from data
